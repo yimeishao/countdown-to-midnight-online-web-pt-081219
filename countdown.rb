@@ -2,6 +2,7 @@
 
 def countdown(number)
   number = 10 
-  while 
+  while number != 0 
+  
   
 end
